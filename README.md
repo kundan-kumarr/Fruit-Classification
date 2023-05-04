@@ -1,3 +1,3 @@
 # Fruit-Classification
 
-Code : [Fruit Classification Code](Final_Fruit_detection/Final_Fruit_detection.md)
+Code : [Fruit Classification Code](HCI575_Final_Fruit_detection/HCI575_Final_Fruit_detection.md)
