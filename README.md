@@ -14,6 +14,13 @@ Independent living is considered an essential part of society, but activities of
 
 
 
+### Deep Learning Model Predictions
+
+![Screenshot3](HCI575_Final_Fruit_detection/output_65_0.png)
+![Screenshot4](HCI575_Final_Fruit_detection/output_66_0.png)
+
+
+
 ## Project Files
 
 - [Project Files]()
